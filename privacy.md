@@ -66,4 +66,4 @@ Changes take effect once posted on this page.
 ## 10. Contact
 For questions or concerns, contact:
 
-📧 **support@tap.com.au**  
+📧 **support@tap-app.com.au**  

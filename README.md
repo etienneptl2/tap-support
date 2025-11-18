@@ -4,7 +4,7 @@ Thanks for playing **Tap: Reaction Speed Challenge**!
 
 If you need help, have feedback, or want to report an issue, please contact:
 
-📧 **Email:** support@tap.com
+📧 **Email:** support@tap-app.com.au
 
 ---
 

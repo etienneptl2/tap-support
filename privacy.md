@@ -1,6 +1,6 @@
 # Privacy Policy  
 **Tap: Reaction Speed Challenge**  
-_Last updated: 18 November 2025_
+_Last updated: 10 January 2026_
 
 ---
 
@@ -52,8 +52,8 @@ You can:
 ---
 
 ## 8. Legal Basis & Jurisdiction
-The App is initially offered in Australia.  
-Your use of the App is governed by Australian law unless local laws require otherwise.
+The App is available worldwide.
+Your use of the App is governed by the laws applicable in your jurisdiction, unless local consumer or privacy laws require otherwise.
 
 ---
 
